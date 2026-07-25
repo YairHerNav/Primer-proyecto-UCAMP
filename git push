@@ -1,0 +1,23 @@
+[33mcommit 1f0daa2651863771c3f1e0158dae50bc176ed65f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Yair HN <yairxd35@gmail.com>
+Date:   Fri Jul 24 22:50:14 2026 -0600
+
+    Se termina la estructura HTML, se anexan las fotos del producto y se pulen detalles finales de HTML
+
+[33mcommit b66b36464b7fde3dddce8444d6318d9a4bb399c5[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Yair HN <yairxd35@gmail.com>
+Date:   Fri Jul 24 22:14:54 2026 -0600
+
+    Se anexa una carpeta de imagenes al documento y se termina por parte del html el header y main
+
+[33mcommit dab139fe7a7c88b006ec2ce76f55d99d08619b01[m
+Author: Yair HN <yairxd35@gmail.com>
+Date:   Fri Jul 24 21:38:23 2026 -0600
+
+    Se agregan los archivos de js y css a la carpeta
+
+[33mcommit 683b6b9e721d5dc110f2d6671de964477b65bfed[m
+Author: Yair HN <yairxd35@gmail.com>
+Date:   Fri Jul 24 21:30:09 2026 -0600
+
+    Se hace la carpeta del proyecto y se anexa el index
